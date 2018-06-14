@@ -1,3 +1,6 @@
+# This project has moved to [iSENSE/MYR](https://github.com/isenseDev/MYR)
+
+
 # MYR - Mix Your Reality
 MYR is an online editor for editing and viewing virtual worlds and effects. The system provides a beginner friendly interface with robust capabilities and is meant for exploration into the fun of programming.  
 
